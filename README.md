@@ -59,7 +59,7 @@ The chatbot provides personalized learning experiences by adapting to each user'
 ---
 
 ## 🏗️ Project Structure
-
+```bash
 FAHEM/
 │
 ├── app.py                     # Main Streamlit app entry point
@@ -81,7 +81,7 @@ FAHEM/
 ├── requirements.txt           # Python dependencies
 │
 └── README.md                  # Project documentation
-
+````
 
 ## ⚙️ Installation Guide
 
