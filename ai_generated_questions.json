@@ -1,0 +1,214 @@
+{
+    "questions": [
+        {
+            "question": "In a busy day, how do you quickly grasp a new idea?",
+            "options": [
+                {
+                    "text": "Sketch branches linking key points",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Tune into a quick audio summary",
+                    "style": "audio"
+                },
+                {
+                    "text": "Scan through written summaries",
+                    "style": "text"
+                },
+                {
+                    "text": "View a short demo clip",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "How do you like to learn new vocabulary?",
+            "options": [
+                {
+                    "text": "Draw diagrams to associate new words",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to native speakers pronounce words",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read word lists with definitions",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch videos featuring new vocabulary",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "When studying a complex topic, what helps you organize ideas?",
+            "options": [
+                {
+                    "text": "Create a visual web of key concepts",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to a detailed lecture series",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through lengthy explanations",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch tutorials explaining the subject",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "How do you like to learn new recipes?",
+            "options": [
+                {
+                    "text": "Sketch the cooking process with arrows",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to a chef explain the steps",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through written recipe instructions",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch a video demonstrating the recipe",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "When learning a new skill, what helps you remember key steps?",
+            "options": [
+                {
+                    "text": "Draw a flowchart outlining the process",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to a guided tutorial",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through step-by-step guides",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch a video showcasing the skill",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "How do you like to learn new historical events?",
+            "options": [
+                {
+                    "text": "Create a visual timeline of key dates",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to a podcast discussing the events",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through written accounts of the era",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch documentaries featuring historical reenactments",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "When studying for a test, what helps you recall key information?",
+            "options": [
+                {
+                    "text": "Create a mind map highlighting key terms",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to a study guide audio series",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through study materials and notes",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch video reviews of key concepts",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "How do you like to learn new programming concepts?",
+            "options": [
+                {
+                    "text": "Create flowcharts illustrating code logic",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to online coding tutorials",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through written code explanations",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch video coding demonstrations",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "When learning a new language, what helps you practice pronunciation?",
+            "options": [
+                {
+                    "text": "Draw diagrams to associate sounds with words",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to native speakers speak in the language",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through written language exercises",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch videos featuring language lessons",
+                    "style": "video"
+                }
+            ]
+        },
+        {
+            "question": "How do you like to learn new scientific concepts?",
+            "options": [
+                {
+                    "text": "Create visual diagrams illustrating scientific principles",
+                    "style": "mindmap"
+                },
+                {
+                    "text": "Listen to science podcast explanations",
+                    "style": "audio"
+                },
+                {
+                    "text": "Read through written science articles",
+                    "style": "text"
+                },
+                {
+                    "text": "Watch videos featuring science experiments",
+                    "style": "video"
+                }
+            ]
+        }
+    ]
+}
