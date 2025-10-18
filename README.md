@@ -8,6 +8,9 @@
 
 ---
 
+🎥 **[Watch Demo Video]([https://www.youtube.com/your-demo-link](https://drive.google.com/file/d/107wF6hW7qxQIVBKk41gxsvWMRNBh5Bxk/view))**  
+*(Click to see FAHEM in action — full walkthrough of features and UI!)*
+
 ## Overview
 
 **FAHEM** is an interactive **multimodal educational assistant** built with **Streamlit**.  
