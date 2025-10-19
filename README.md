@@ -90,8 +90,9 @@ FAHEM/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/fahem-chatbot.git
-cd fahem-chatbot
+git clone https://github.com/Ayaabdelmoneam/FAHEM.AI.git
+
+cd FAHEM.AI
 ````
 ### 2. Create and Activate a Virtual Environment
 python -m venv venv
