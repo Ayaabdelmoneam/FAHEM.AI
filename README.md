@@ -1,4 +1,4 @@
-# 🧠 FAHEM.AI — Multimodal Educational Chatbot (RAG + Gemini + LipSync)
+# 🧠 FAHEM.AI — Multimodal Educational Platform (RAG + Gemini + LipSync)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.20%2B-red)
